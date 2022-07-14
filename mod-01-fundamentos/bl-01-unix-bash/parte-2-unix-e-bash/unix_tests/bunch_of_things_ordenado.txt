@@ -1,0 +1,11 @@
+Bash
+CSS
+Dia de estudar Git & Github
+Finalizar os exercîcios anteriores
+Git
+Github
+HTML
+Internet
+Terminal
+Unix
+Verificar se está tudo ok com a configuração

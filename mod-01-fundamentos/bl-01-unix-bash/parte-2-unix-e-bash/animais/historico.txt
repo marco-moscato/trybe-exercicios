@@ -1,0 +1,3 @@
+  332  clear
+  333  history
+  334  history | tail -3

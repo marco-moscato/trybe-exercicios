@@ -1,0 +1,3 @@
+Dia de estudar Git & Github
+Finalizar os exercîcios anteriores
+Verificar se está tudo ok com a configuração

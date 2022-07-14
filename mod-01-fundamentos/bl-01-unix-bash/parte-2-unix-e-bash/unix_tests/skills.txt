@@ -1,0 +1,9 @@
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+Desenvolvimento Front-end
+Desenvolvimento Back-end
+Ciência da Computação
+123
