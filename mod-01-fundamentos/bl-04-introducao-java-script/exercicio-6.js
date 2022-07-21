@@ -6,10 +6,10 @@
 // Pawn: frente
 
 // declarar as variáveis válidas numa arrray
-const chessPieceName = ('king', 'queen', 'rook', 'bishop', 'knight', 'pawn');
+/*const chessPieceName = ('king', 'queen', 'rook', 'bishop', 'knight', 'pawn');*/
 
 // declarar os movimentos válidos
-const king = "any";
+/*const king = "any";
 const queen = "any";
 const rook = "straight";
 const bishop = "diagonals";
@@ -22,4 +22,6 @@ if (input <> chessPieceName) {
     console.log("Erro");
 }
 
-else if ()
+else if ()*/
+
+
