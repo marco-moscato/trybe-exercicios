@@ -27,11 +27,25 @@ changeColor();
 
 /* Crie e execute uma função que corrija o texto da tag <h1>.*/
 function correctText() {
-    let correctedText = document.getElementsClassName("title")[0];
+    let correctedText = document.getElementsByClassName("title")[0];
     correctedText.innerText = "Exercício 5.1 - JavaScript";
 }
 correctText();
 
-/*Crie e execute uma função que modifique todo o texto da tag <p> para maiúsculo.
-Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
-  */
+/* Crie e execute uma função que modifique todo o texto da tag <p> para maiúsculo. */
+
+function capitalLetters() {
+  let paragraph = document.getElementsByTagName("p")[0];
+  paragraph.innerHTML = paragraph.innerHTML.toUpperCase();
+  }
+capitalLetters();
+
+/* Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.*/
+
+function showParagraphContent() {
+  let paragraph = document.getElementsByTagName("p");
+  for (let i = 0; i < paragraph.length; i += 1) {
+    console.log(paragraph[i].innerHTML);
+  }
+}
+showParagraphContent();
